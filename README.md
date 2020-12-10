@@ -1,4 +1,4 @@
-# Programming-diagrams
+# Programming diagrams
 
 This is a collection of programming diagrams that may be used for teaching. While they may be similar to many languages, the specific implementations shown reflect how these programming constructs work in Python. If using with relation to another language, please check that the diagram matches the implementation.
 
